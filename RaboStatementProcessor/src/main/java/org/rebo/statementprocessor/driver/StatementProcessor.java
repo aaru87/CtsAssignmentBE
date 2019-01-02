@@ -23,7 +23,7 @@ public class StatementProcessor {
 			if (!(args.length < 1)) {
 				// logger.info("Process exited with insufficient arguments");
 
-				logger.log(Level.INFO, "Provide sufficient parameters");
+				logger.log(Level.INFO, "Provide sufficient parameterss");
 				System.out.println(" Usage : Specify the path of the file to generate the valdation");
 				System.exit(0);
 			}
